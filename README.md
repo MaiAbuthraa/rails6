@@ -1,0 +1,2 @@
+# rails6
+exercise
