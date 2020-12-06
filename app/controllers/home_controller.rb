@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
   def index
-    binding.pry
+    logger.info "This index page"
   end
 end
